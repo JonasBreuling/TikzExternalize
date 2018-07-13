@@ -1,0 +1,28 @@
+*
+!/**/
+!*.*
+
+# compressed files
+*.xz
+*.zip
+*.tar
+*.gz
+
+# latex crap
+*.aux
+*.auxlock
+*.log
+*.out
+*.toc
+*.dpth
+*.md5
+
+# postscript files
+*.eps
+
+# bibtex/ LaTeX stuff
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
